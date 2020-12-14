@@ -1,0 +1,19 @@
+{
+  "name": "ecommerce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sourabhrajwade/e-Commerce-Website-in-React.git"
+  },
+  "author": "Sourabh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sourabhrajwade/e-Commerce-Website-in-React/issues"
+  },
+  "homepage": "https://github.com/sourabhrajwade/e-Commerce-Website-in-React#readme"
+}
